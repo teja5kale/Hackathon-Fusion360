@@ -52,25 +52,6 @@ Demonstrates the complete workflow, gracefully handling API limitations.
 python scripts/verify_setup.py
 ```
 
-## 📝 For Hackathon Presentation
-
-**What to Show**:
-
-1. **AI Optimization** ✅
-   - Run `python examples/ai_demo.py`
-   - Shows intelligent parameter suggestions
-
-2. **Architecture** ✅
-   - Complete system design
-   - All components implemented
-
-3. **Code Quality** ✅
-   - Clean, modular structure
-   - Production-ready code
-
-4. **Future Integration** ✅
-   - Explain Fusion 360 API is ready
-   - Just needs API access/permissions
 
 ## 🔧 Configuration
 
