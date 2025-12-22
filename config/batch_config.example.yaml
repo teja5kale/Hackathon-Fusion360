@@ -1,0 +1,22 @@
+# Example batch configuration file
+# Copy this file and modify for your batch processing needs
+
+ai_provider: openai  # or "anthropic"
+
+items:
+  - project_id: "your_project_id_1"
+    design_id: "your_design_id_1"
+    design_intent: "Minimize weight while maintaining structural integrity"
+    constraints:
+      max_stress: 100  # MPa
+      min_volume: 50   # cm³
+  
+  - project_id: "your_project_id_2"
+    design_id: "your_design_id_2"
+    design_intent: "Optimize for manufacturing cost"
+    constraints:
+      max_complexity: 10
+      material: "aluminum"
+
+output_file: batch_results.json
+

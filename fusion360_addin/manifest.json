@@ -1,0 +1,16 @@
+{
+    "name": "AI Parameter Optimizer",
+    "description": "Apply AI-optimized parameters to Fusion 360 designs",
+    "version": "1.0.0",
+    "author": "AI Catalysts",
+    "host": {
+        "app": "Fusion360",
+        "minVersion": "2.0.4000",
+        "maxVersion": "2.0.99999"
+    },
+    "runOnStartup": false,
+    "api": "python",
+    "path": "ai_parameter_optimizer",
+    "id": "ai-parameter-optimizer"
+}
+

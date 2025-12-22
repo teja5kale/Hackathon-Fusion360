@@ -1,0 +1,24 @@
+# AI-Assisted Parametric Design Automation - Dependencies
+
+# Autodesk Platform Services / Fusion 360 API
+requests>=2.31.0
+oauthlib>=3.2.2
+requests-oauthlib>=1.3.1
+
+# AI/LLM Integration
+openai>=1.3.0
+anthropic>=0.7.0
+google-genai>=0.1.0
+
+# Data handling
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Utilities
+pyyaml>=6.0.1
+click>=8.1.7
+
+# Optional: For web UI (future scope)
+flask>=3.0.0
+flask-cors>=4.0.0
+
