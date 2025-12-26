@@ -57,9 +57,10 @@ python scripts/verify_setup.py
 
 Your `.env` file should have:
 ```env
-APS_CLIENT_ID=tt41DjK55dL1djTXKtGufe7hFJym3NsusCLAaGCaYRXrVZ6Q
-APS_CLIENT_SECRET=CCZNaNF4BhrC88R7t0e3fh0KTp5WsPtKW9nnHf4d2QcF01dJPlrL3wA2YMxRst0f
+APS_CLIENT_ID=******
+APS_CLIENT_SECRET=******
 OPENAI_API_KEY=your_openai_key_here
+
 ```
 
 **⚠️ Security Note**: Rotate your Client Secret after sharing it!
